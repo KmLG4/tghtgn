@@ -1,0 +1,22 @@
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\bin\Debug\Occupational specialism.exe.config
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\bin\Debug\Occupational specialism.exe
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\bin\Debug\Occupational specialism.pdb
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Occupational specialism.csproj.AssemblyReference.cache
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\MainWindow.g.cs
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Window1.g.cs
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\App.g.cs
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Occupational specialism_MarkupCompile.cache
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Occupational specialism_MarkupCompile.lref
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\MainWindow.baml
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Window1.baml
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Occupational specialism.g.resources
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Occupational_specialism.Properties.Resources.resources
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Occupational specialism.csproj.GenerateResource.cache
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Occupational specialism.csproj.CoreCompileInputs.cache
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Occupational specialism.exe
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Occupational specialism.pdb
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\LoginWindow.g.cs
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\LoginWindow.baml
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\obj\Debug\Occupational specialism_Content.g.cs
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\bin\Debug\Database1.mdf
+C:\Users\DopeP\source\repos\Occupational specialism\Occupational specialism\bin\Debug\Database1_log.ldf
